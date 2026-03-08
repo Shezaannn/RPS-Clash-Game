@@ -1,7 +1,5 @@
 # RPS Clash 🎮
 
-## 📖 Introduction
-
 **RPS Clash** is a simple Android game based on the classic **Rock–Paper–Scissors** challenge.  
 This project was created as a learning exercise to explore core Android development concepts using **Java and Android Studio**, including UI design, activity navigation, and game logic.
 
