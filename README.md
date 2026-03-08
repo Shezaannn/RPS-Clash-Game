@@ -84,7 +84,7 @@ In future updates, the app will include:
 
 ## 🚀 How to Run the Project
 
-Clone the repository: Initial commit - RPS Clash Android game
+Clone the repository: https://github.com/Shezaannn/RPS-Clash-Game.git
 
 
 ---
